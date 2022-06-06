@@ -26,3 +26,5 @@ _On Linux and macOS, `export FLASK_APP=flask_factory`;_
 _On Windows, `set FLASK_APP=flask_factory` or `$env:FLASK_APP = "flask_factory"`_
 
 5. `flask run`
+
+https://picslateqa.pythonanywhere.com (no machine translation yet)
