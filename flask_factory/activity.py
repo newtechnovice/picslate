@@ -39,7 +39,7 @@ def do_something():
         swt.swttransform(image=resized, edge_func='ac', ac_sigma=1.0, text_mode=mode,
                              gs_blurr=True, blurr_kernel=(5, 5), minrsw=3,
                              maxCC_comppx=5000, maxrsw=200, max_angledev=np.pi / 6,
-                             acceptCC_aspectratio=5.0)
+                             acceptCC_aspectratio=5.0, save_results=False, save_rootpath='home/picslateqa/picslate/SWTResults/')
 
         # Text identification (OCR)
         result = pytesseract.image_to_string(swt.swt_mat, lang='eng', config='--psm 4')
