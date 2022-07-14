@@ -7,8 +7,8 @@ and Hiligaynon languages and translate them into Filipino, applied with image te
 <ul>
 <li>To apply image pre-processing techniques used in computer vision to minimize noise on scene images before text extraction process;</li>
 <li>To apply Stroke Width Transform (SWT) with Canny Edge Detector for the text feature extraction process; </li>
-<li>To build a moderately developed parallel corpus for the low resource languages Cavite Chavacano and Kinaray-a; </li>
-<li>To make use of the Seq2Seq training model with OpenNMT for neural machine translation.</li>
+<li>To build a moderately developed parallel corpus for the low resource languages Cavite Chavacano, Hiligaynon and Kinaray-a; </li>
+<li>To make use of the Seq2Seq LSTM-RNN for neural machine translation.</li>
 </ul>
 
 <hr>
