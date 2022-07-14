@@ -27,4 +27,13 @@ _On Windows, `set FLASK_APP=flask_factory` or `$env:FLASK_APP = "flask_factory"`
 
 5. `flask run`
 
-https://picslateqa.pythonanywhere.com (no machine translation yet)
+
+## Demo
+
+
+
+https://user-images.githubusercontent.com/66836831/179000565-ce1a5515-cc10-4d33-bfb0-2508d68f9a75.mp4
+
+
+
+
