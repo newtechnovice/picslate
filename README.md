@@ -36,4 +36,7 @@ https://user-images.githubusercontent.com/66836831/179000565-ce1a5515-cc10-4d33-
 
 
 
+<hr>
+NOTE: 
 
+Trained models used in this web application are not included in this repository.
